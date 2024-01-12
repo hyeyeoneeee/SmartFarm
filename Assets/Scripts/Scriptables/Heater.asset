@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 459c669814328af4f9b16d88f509eba5, type: 3}
+  m_Name: Heater
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: "\uB09C\uBC29\uAE30"
+  itemDescription: "\uC77C\uC0AC\uAC12, \uC628.\uC2B5\uB3C4 \uAC12\uC744 \uD1A0\uB300\uB85C
+    \uC628\uC2E4 \uB0B4 \uC628\uB3C4 \uC870\uC808"
